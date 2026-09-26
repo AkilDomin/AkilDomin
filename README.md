@@ -1,13 +1,13 @@
 
 
-<h1 align="center">Hi there, I'm <span color="#7aa2f7">YOUR_NAME</span> 👋</h1>
+<h1 align="center">Hi there, I'm <span color="#7aa2f7">Aki</span> 👋</h1>
 
 <p align="center">
   <em>Indie Developer & 3D Enthusiast</em>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ТВОЙ_НИК&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=AkilDomin&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
 ---
@@ -15,8 +15,8 @@
 ### 🚀 About Me
 
 - 🛠️ **Working on:** Game dev projects & 3D mechanics
-- 🎨 **Interests:** Low-poly modeling, rigging & Python scripting
-- 💻 **Main Tools:** Blender, Godot, VS Code
+- 🎨 **Interests:** Low-poly modeling, rigging & scripting, coding
+- 💻 **Main Tools:** Blender, a little of wibe coding, VS Code
 - 💬 **Ask me about:** Blender workflow, Godot nodes & tech stuff
 
 ---
@@ -37,8 +37,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AkilDomin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkilDomin&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -46,7 +46,7 @@
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="https://t.me/ТВОЙ_TELEGRAM" target="_blank">
+  <a href="https://t.me/@AkylbekKa" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
