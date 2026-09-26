@@ -1,7 +1,4 @@
 
-
-<h1 align="center">Hi there, I'm <span color="#7aa2f7">Aki</span> </h1>
-
 <div align="center">
 
   <!-- Анимированный печатающийся заголовок -->
