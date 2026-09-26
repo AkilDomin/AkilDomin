@@ -1,7 +1,16 @@
 
 
-<h1 align="center">Hi there, I'm <span color="#7aa2f7">Aki</span> 👋</h1>
+<h1 align="center">Hi there, I'm <span color="#7aa2f7">Aki</span> </h1>
 
+<div align="center">
+
+  <!-- Анимированный печатающийся заголовок -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vcenter=true&width=500&height=50&lines=Hi%2C+I'm+Aki+%F0%9F%91%8B;3D+Artist+%26+Indie+Dev;Welcome+to+my+profile!+" alt="Typing SVG" />
+
+  <p>
+    
+    <em>Crafting 3D models, game mechanics & code.</em>
+  </p>
 <p align="center">
   <em>Indie Developer & 3D Enthusiast</em>
 </p>
@@ -12,16 +21,16 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
-- 🛠️ **Working on:** Game dev projects & 3D mechanics
-- 🎨 **Interests:** Low-poly modeling, rigging & scripting, coding
-- 💻 **Main Tools:** Blender, a little of wibe coding, VS Code
-- 💬 **Ask me about:** Blender workflow, Godot nodes & tech stuff
+-  **Working on:** Game dev projects & 3D mechanics
+-  **Interests:** Low-poly modeling, rigging & scripting, coding
+-  **Main Tools:** Blender, a little of wibe coding, VS Code
+-  **Ask me about:** Blender workflow, Godot nodes & tech stuff
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -34,7 +43,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=AkilDomin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -43,7 +52,7 @@
 
 ---
 
-### 📫 Connect with Me
+###  Connect with Me
 
 <p align="left">
   <a href="https://t.me/@AkylbekKa" target="_blank">
