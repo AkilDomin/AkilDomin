@@ -5,7 +5,7 @@
 <div align="center">
 
   <!-- Анимированный печатающийся заголовок -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vcenter=true&width=500&height=50&lines=Hi%2C+I'm+Aki+%F0%9F%91%8B;3D+Artist+%26+Indie+Dev;Welcome+to+my+profile!+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vcenter=true&width=500&height=50&lines=Hi%2C+I'm+Aki;3D+Artist+%26+Indie+Dev;Welcome+to+my+profile!+" alt="Typing SVG" />
 
   <p>
     
